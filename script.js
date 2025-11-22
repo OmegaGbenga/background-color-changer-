@@ -28,6 +28,4 @@ switchBtn.addEventListener("click", ()=>{
     
 })
 
-function resetContainer(){
- 
-}
+
